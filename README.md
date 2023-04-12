@@ -21,3 +21,6 @@ sudo docker pull wordpress
 
 sudo docker run --name my-wordpress -p 8080:80 -d wordpress
 訪問WordPress：在瀏覽器上訪問http://localhost:8080，您應該可以看到WordPress安裝頁面。
+
+
+這裡我要修改一下！
